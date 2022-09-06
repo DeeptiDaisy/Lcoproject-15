@@ -32,3 +32,7 @@ In style.css file i write all the code for the styling .
 
 Image of my website.
 ![image](https://user-images.githubusercontent.com/109961309/183289794-d1596a79-d7c8-40f8-8b52-fe6fc76147da.png)
+
+In smaller scree it will look like as
+
+![image](https://user-images.githubusercontent.com/109961309/188580365-7c54e968-231d-4207-91db-2228515a1e49.png)
